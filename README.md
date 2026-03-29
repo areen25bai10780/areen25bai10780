@@ -1,16 +1,36 @@
-## Hi there 👋
+# Howdy, I'm Areen Chauhan
 
-<!--
-**areen25bai10780/areen25bai10780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech | To begin with Year** 
 
-Here are some ideas to get you started:
+**VIT Bhopal University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Approximately Me
+
+As a first-year B.Tech understudy and **Understudy Advanced Minister**, I am energetic approximately utilizing innovation to learn, make, and offer assistance my peers explore the computerized world responsibly.
+
+
+### What I Trust to Learn
+
+Over the another four a long time, I point to ace full-stack improvement, information science, and proficient advanced collaboration apparatuses whereas building a solid specialized portfolio.
+
+
+### Right now Exploring
+
+- Computerized Education & Online Security 
+
+- Coding Hone Stages (HackerRank, CodeChef) 
+
+- Proficient Organizing (LinkedIn & GitHub)
+
+
+**Let's interface and develop together!** 
+
+Feel free to investigate my storehouses and reach out for any advanced proficiency or tech-related discussions.
+
+
+
+---
+
+
+
+Made with ❤️ as portion of **CSE0001 Computerized Proficiency Venture**
